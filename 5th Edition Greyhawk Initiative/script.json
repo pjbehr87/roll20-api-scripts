@@ -1,0 +1,13 @@
+{
+    "name":"5th Edition Greyhawk Initiative",
+    "script":"AltInit.js",
+    "version":"0.1",
+    "previousVersions":[],
+    "description":"Needs description",
+    "authors":"Phil B.",
+    "roll20userid":"141325",
+    "useroptions":[],
+    "dependencies":[],
+    "modifies":{},
+    "conflicts":[]
+}
